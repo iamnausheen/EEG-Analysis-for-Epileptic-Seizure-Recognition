@@ -36,13 +36,13 @@ This project takes a balanced approach that prioritizes both **model performance
 
 ## 📂 Notebooks & Scripts
 
-| File Name                          | Description                         | 
-|-----------------------------------|--------------------------------------|
-| `EEG_1_EDA.ipynb`                 | Exploratory Data Analysis            |
-| `EEG_2_ALLmodels.ipynb`           | Evaluation of multiple ML models     | 
-| `EEG_3_ResearchModels (1).ipynb`  | Final selected models for research   | 
-| `EEG_eegdataloder_doc (1).ipynb`  | Explanation for data loading
-|                                     functions eeg_dataloader.py 
-| `InterpretabilityPlots (1).ipynb` | Visualization of model explanations  | 
-| `eeg_dataloader.py`               | Custom EEG data loader module        | 
+| File Name                          | Description                               |
+|-----------------------------------|-------------------------------------------|
+| `EEG_1_EDA.ipynb`                 | Exploratory Data Analysis                 |
+| `EEG_2_ALLmodels.ipynb`           | Evaluation of multiple ML models          | 
+| `EEG_3_ResearchModels (1).ipynb`  | Final selected models for research        | 
+| `EEG_eegdataloder_doc (1).ipynb` | Explanation of data loading functions in `eeg_dataloader.py` |
+| `InterpretabilityPlots (1).ipynb` | Visualization of model explanations       | 
+| `eeg_dataloader.py`               | Custom EEG data loader module             |
+
 
